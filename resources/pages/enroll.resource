@@ -29,3 +29,6 @@ Fill Start Date
         Keyboard Key    press    ${number}
         
     END
+
+Submit Enroll Form
+    Click    css=button >> text=Salvar
